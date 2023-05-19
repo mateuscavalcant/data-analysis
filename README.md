@@ -1,4 +1,4 @@
-# Gráfico de Barras - Países Que Mais Consomem Álcool Puro
+# Pipeline ETL
 Este projeto consiste em um código em Python que lê dados de um arquivo CSV contendo informações sobre o consumo de álcool em diferentes países e gera um gráfico de barras representando o consumo de álcool em países que estão acima da média global.
 
 ## Dados e Fonte
